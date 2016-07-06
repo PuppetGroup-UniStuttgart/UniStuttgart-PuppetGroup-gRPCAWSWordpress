@@ -3,9 +3,8 @@ syntax = "proto3";
 option java_multiple_files = true;
 option java_package = "cloudlab.WordPressOpsProto";
 option java_outer_classname = "WordPressOpsProto";
-option objc_class_prefix = "EC";
 
-package WordPressOpsProto;
+package cloudlab.WordPressOpsProto;
 
 // The greeting service definition.
 service WordPressOps {
