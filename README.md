@@ -1,4 +1,4 @@
-# CloudLab-IAAS-UniStuttgart-Part2-gRPCAWSWordpress
+# UniStuttgart-PuppetGroup-gRPCAWSWordpress
 Java project of AWS-Wordpress gRPC API  
 
 ####WordPress gRPC  
