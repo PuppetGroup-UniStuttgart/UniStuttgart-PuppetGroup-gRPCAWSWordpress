@@ -17,5 +17,3 @@ Method Name: deployApp, deployDB, connectAppToDB
     username: Username of the Amazon EC2 instance in order to initiate session  
     publicIP: Public IP of the Amazon EC2 instance in order to initiate session
 
-NOTE: Please maintain order of input to the method if you are manually invoking the API & naming convention
-
